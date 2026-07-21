@@ -18,7 +18,7 @@ de Bandos do Livro do Mestre de D&D 2024.
 
 ## Créditos
 
-Idealização:
+Projeto:
 Rodrigo Lima
 
 Desenvolvimento:
